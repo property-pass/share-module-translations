@@ -52,7 +52,7 @@
   "refresh": "refresh",
   "required": "Verplicht",
   "share_error_authenticate_with_mdmb_before_sharing": "U kunt geen huurinformatie delen omdat u niet bent geauthoriseerd via MijnDataMijnBusiness",
-  "share_request": "share_request",
+  "share_request": "Data deel verzoek",
   "share_request_success_message": "Uw data wordt verstuurd naar de bank. Een bevestiging van aanlevering ontvangt u per e-mail.",
   "share_requests": "Data deel acties",
   "tenant": "Huurder",
