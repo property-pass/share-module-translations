@@ -32,7 +32,7 @@
   "hello_world": "Hallo wereld",
   "here": "Hier",
   "import_error_duplicate_business_organization": "Er is iets fout gegaan, deze organisatie bestaat al",
-  "invalid_welcome_card_introduction": "Property Pass helpt u bij het delen van data vanuit uw eigen systeem naar derde partijen.",
+  "invalid_welcome_card_introduction": "Property Pass helpt u bij het delen van data vanuit \\n uw eigen systeem naar derde partijen.",
   "invalid_welcome_card_paragraph_1": "U heeft dit data deel verzoek al voltooid.",
   "invalid_welcome_card_paragraph_2": "Het opnieuw versturen van uw data met dezelfde link is omwille van veiligheidsredenen niet mogelijk.",
   "invalid_welcome_card_title": "Dit data deel verzoek is verlopen.",
